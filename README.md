@@ -1,0 +1,1 @@
+This is an empty package that is only used to demonstratae how a supply chain attack works. (This packages postinstall script just echoes some stuff out so don't worry about your device being hacked if you install this lol)
