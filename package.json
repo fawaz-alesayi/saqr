@@ -2,6 +2,10 @@
   "name": "saqr",
   "version": "2.0.0",
   "description": "An empty package that was used to demonstrate how a supply chain attack works",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fawaz-alesayi/saqr"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
